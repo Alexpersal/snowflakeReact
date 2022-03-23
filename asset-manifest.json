@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/snowflakeReact/static/css/main.afacf65e.css",
+    "main.js": "/snowflakeReact/static/js/main.76b62609.js",
+    "static/js/787.8bd4aa69.chunk.js": "/snowflakeReact/static/js/787.8bd4aa69.chunk.js",
+    "static/media/fondo.png": "/snowflakeReact/static/media/fondo.96dce6b7ba99b3059b29.png",
+    "index.html": "/snowflakeReact/index.html",
+    "main.afacf65e.css.map": "/snowflakeReact/static/css/main.afacf65e.css.map",
+    "main.76b62609.js.map": "/snowflakeReact/static/js/main.76b62609.js.map",
+    "787.8bd4aa69.chunk.js.map": "/snowflakeReact/static/js/787.8bd4aa69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afacf65e.css",
+    "static/js/main.76b62609.js"
+  ]
+}
